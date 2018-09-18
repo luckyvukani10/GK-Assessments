@@ -1,8 +1,4 @@
-To Get all Post by UserID=1
-
-https://jsonplaceholder.typicode.com/posts?userId=1
-
-
+URL: https://jsonplaceholder.typicode.com/posts?userId=1
 
 [
     {
