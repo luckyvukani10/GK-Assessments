@@ -7,9 +7,12 @@ For Assessment 03
 
 Please open the Postman
 
-To get All Comments by PostI, Please Paste the URL(URL: https://jsonplaceholder.typicode.com/comments?postId=1) and click Send Button
+To get All Comments by PostI=1, Please Paste the URL(URL: https://jsonplaceholder.typicode.com/comments?postId=1) and click Send Button Button.
+This will return all comments with the postID=1 on the Post Table 
 
-TO Get All Comments and Post by UserID, Paste the URL(URL: https://jsonplaceholder.typicode.com/comments?postId=1) and click Send Button
+
+To Get All Comments and Post by UserID, Paste the URL(URL: https://jsonplaceholder.typicode.com/comments?postId=1) and click Send Button
+This will
 
 
 
