@@ -1,6 +1,5 @@
 GK Assessment
 
-Assessment 01
 
 
 For Assessment 03
@@ -18,11 +17,5 @@ To Get all Details on the Post Table, Paste the URL(https://jsonplaceholder.typi
 This will return all Details on the Post Table.
 
 
-To Get all Details on the Post Table, Paste the URL(https://jsonplaceholder.typicode.com/posts) and click Send Button
-This will return all Details on the Post Table.
-
-
-
-
-
-
+To Get all Posts by UserID=1, Paste the URL(https://jsonplaceholder.typicode.com/posts?userId=1) and click Send Button
+This will return all Posts with UseID=1.
